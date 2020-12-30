@@ -26,6 +26,4 @@ The screenshots are downloadable. Just right click to download and save them to 
 - Padlock Icon: [https://image.flaticon.com/icons/svg/481/481195.svg](https://image.flaticon.com/icons/svg/481/481195.svg)
 - Typeface: Roboto [https://fonts.google.com/specimen/Roboto](https://fonts.google.com/specimen/Roboto)
  
-In case of any queries or concerns, please reach out to us. Best of luck!
 
-_- Team Neotas_
