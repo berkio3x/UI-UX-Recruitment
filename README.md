@@ -7,7 +7,7 @@ The objective of the test is to build functional HTML templates in *VueJs* from 
 -	Buttons should be clickable and the JS should transition the user from one card state to another. 
 -	No need to animate, direct transition would work as well. 
 -	The last success page we leave to your imagination to design. Get creative, and think of how you imagine the last box to look like.
--	There should be just 1 validation on the page on the card number box & one validation in email input box. If the length of the card number is not 16, then the box outline should turn red with an error message under it.
+-	There should be relevant validations on the page (ex. card number box, If the length of the card number is not 16, then the box outline should turn red with an error message under it). 
 
 ### Screenshots
 
