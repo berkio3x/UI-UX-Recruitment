@@ -11,9 +11,9 @@ The objective of the test is to build functional HTML templates in *VueJs* from 
 
 ### Screenshots
 
-![Screenshot 1](https://github.com/Neotas/UI-UX-Recruitment/raw/master/screen1.png)
+![Screenshot 1](https://github.com/Neotas/UI-UX-Recruitment/raw/master/Test-2/screen1.png)
 
-![Screenshot 2](https://github.com/Neotas/UI-UX-Recruitment/raw/master/screen2.png)
+![Screenshot 2](https://github.com/Neotas/UI-UX-Recruitment/raw/master/Test-2/screen2.png)
 
 The screenshots are downloadable. Just right click to download and save them to open if your favourite image editor program.
 
