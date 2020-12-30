@@ -1,7 +1,5 @@
 # Welcome to Neotas UI/UX Developer Recruitment!
 
-Hi! Good Afternoon. Please read through the following instructions carefully. The duration of the test is 2 days. 
-
 The objective of the test is to build functional HTML templates in *VueJs* from the given UI designs. The designs are for a Payment Checkout page. *Please note*, do not worry about exact value of margin/padding or card size, just try to replicate the design as closely as you can. We're interested to see your skills for development. The application does not need to be live, static HTML page would work as well, with integrated JS. Requirements are given below: 
 - The card should be vertically and horizontally centered on the page. It'll be great if you can use bootstrap/materialize as the base CSS to start with. But the choice is yours, even if you don't want to use those libraries, that's ok!
 -	Buttons should be clickable and the JS should transition the user from one card state to another. 
