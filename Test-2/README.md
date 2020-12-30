@@ -27,3 +27,5 @@ The screenshots are downloadable. Just right click to download and save them to 
 - Typeface: Roboto [https://fonts.google.com/specimen/Roboto](https://fonts.google.com/specimen/Roboto)
  
 
+## Task duration
+2 hours approx
