@@ -1,6 +1,6 @@
 # UI-UX-Recruitment
 
-Hi! Please read through the instructions carefully. The total duration of the test is *4 hours*. 
+Hi! Please read through the instructions carefully. The total duration of the test is *14 hours*. 
 
 This repo contains 2 directories, each directory contains a small test. Both tests are supposed to be attempted in [Vue.js](https://vuejs.org/).
 
